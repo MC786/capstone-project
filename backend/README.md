@@ -2,12 +2,12 @@
 
 ## Gliederung
   - [Allgemeines](#allgemeines)
-  - [Anwendungsfelder]
-  - [Webserver]
-  - [Programmiersprachen]
-  - [Frameworks]
-  - [Besonderheiten]
-  - [Linkliste]
+  - [Anwendungsfelder](#anwendungsfelder)
+  - [Webserver](#webserver)
+  - [Programmiersprachen](#programmiersprachen)
+  - [Frameworks](#frameworks)
+  - [Besonderheiten](#besonderheiten)
+  - [Linkliste](#linkliste)
 
 ## Allgemeines
 
