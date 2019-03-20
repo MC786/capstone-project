@@ -13,9 +13,11 @@ Statische Webseiten (HTML-Dateien) werden direkt vom Webserver an den Client aus
 Wenn es sich um eine **dynamische Seite** handelt (bsp. PHP-Dateien), wird ein zusätzliches Modul benötigt, dass das entsprechende Skript ausführt und die Inhalte erst beim Aufruf aus **unterschiedlichen Quellen** zusammengestellt.
 
 ## Gängige Webserver
-<img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="350" align="right">
-Es gibt einige verschiedene Webserver-Software. Jedoch gibt es vier dominierende Server, die im folgenden behandelt werden.
-Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet wird, dicht gefolgt vom **NGINX**-Server. 
+<p align="center">
+<img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="350">
+</p>
+Es gibt einige verschiedene Webserver-Software. Jedoch gibt es vier dominierende Server, die im Folgenden behandelt werden.<br>
+Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet wird, dicht gefolgt vom **NGINX**-Server. Allerdings findet NGINX bei Websiten, die viel Traffic vorzuweisen haben, signifikant mehr Anwendung als alle anderen.
 
 ### Apache
 <p> <img align="right" src="https://www.apache.org/foundation/press/kit/asf_logo.svg" alt="Apache-Logo" width="190">
