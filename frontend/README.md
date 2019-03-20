@@ -1,6 +1,27 @@
 # Front-End Technologies
 
+## What is Front End?
+//chris
 
+## Languages used in Front End Programming
+//chris
+//jan
+
+### HTML5
+#### HTML
+
+### CSS
+#### SASS
+#### Stylus
+
+### Javascript
+####coffeescript
+
+## Front End Frameworks
+//nina
+
+## Designing in Front End
+//nico
 
 
 ## Helpful Videos or Tutorials
