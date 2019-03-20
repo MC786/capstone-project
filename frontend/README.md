@@ -20,7 +20,7 @@
 #### Stylus
 
 ### Javascript
-#### coffeescript
+#### Coffeescript
 
 ## Front End Frameworks
 //nina
