@@ -10,6 +10,10 @@
 ## Linkliste
 Nachfolgend eine Liste über interessante Links:
 
+### Links zu Allgemeines   
+ - [Beginner Leitfaden](https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/)
+ - [Aufgabenbeschreibung Backend](https://www.upwork.com/hiring/development/back-end-web-developer/)
+
 ## Autoren
 
 | Name                  | E-Mail                      | Änderungsdatum |
