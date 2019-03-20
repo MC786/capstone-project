@@ -5,6 +5,7 @@
 
 ## Helpful Videos or Tutorials
 [What you need to know as a Front End Developer (02.2018)](https://www.youtube.com/watch?v=Xd7huBu39qk)
+[A Beginner's Guide to Front-End Development](https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/)
 
 ## Autoren
 
