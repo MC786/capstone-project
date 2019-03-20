@@ -2,12 +2,10 @@
 
 # Webserver
 
+<img src="https://blog.botfrei.de/wp-content/uploads/2013/01/6_Abbildung-2-3-1.jpg" alt="Kommunikation zwischen Client und Webserver" width="450" align="right">
+
 ## Definition / Allgemeines
 Ein Webserver ist ein Server, der **Anfragen** über das Internet von Webclients/Browsern annimmt und Daten und Inhalte zum Abrufen bereitstellt.
-
-<p align="center">
-	<img src="https://blog.botfrei.de/wp-content/uploads/2013/01/6_Abbildung-2-3-1.jpg" alt="Kommunikation zwischen Client und Webserver" width="450">
-</p>
 
 ## Arbeitsweise
 Der Client stellt eine HTTP-Anfrage an den Server: `GET https://www.example.com`. <br>
@@ -15,10 +13,8 @@ Statische Webseiten (HTML-Dateien) werden direkt vom Webserver an den Client aus
 Wenn es sich um eine **dynamische Seite** handelt (bsp. PHP-Dateien), wird ein zusätzliches Modul benötigt, dass das entsprechende Skript ausführt und die Inhalte erst beim Aufruf aus **unterschiedlichen Quellen** zusammengestellt.
 
 ## Gängige Webserver
-Es werden nur die vier am häufigsten verwendeten Webserver behandelt: Apache, nginx, Microsoft und Google.
-<p align="center">
-	<img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="450">
-</p>
+<img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="450" align="right">
+Es gibt einige verschiedene Webserver-Software. Jedoch gibt es vier dominierende Server, die im folgenden behandelt werden.
 Es ist erkennbar, dass der Microsoft-Server allgemein betrachtet zwar am häufigsten verwendet wird, bei aktuellen und häufig besuchten Seiten jedoch kaum noch eine Rolle spielt. Die Apache- und nginx-Server bilden die Marktführer bei den aktuellen Seiten.
 
 ### Apache
