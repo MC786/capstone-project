@@ -13,17 +13,17 @@ Statische Webseiten (HTML-Dateien) werden direkt vom Webserver an den Client aus
 Wenn es sich um eine **dynamische Seite** handelt (bsp. PHP-Dateien), wird ein zusätzliches Modul benötigt, dass das entsprechende Skript ausführt und die Inhalte erst beim Aufruf aus **unterschiedlichen Quellen** zusammengestellt.
 
 ## Gängige Webserver
-<img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="450" align="right">
+<img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="350" align="right">
 Es gibt einige verschiedene Webserver-Software. Jedoch gibt es vier dominierende Server, die im folgenden behandelt werden.
-Es ist erkennbar, dass der Microsoft-Server allgemein betrachtet zwar am häufigsten verwendet wird, bei aktuellen und häufig besuchten Seiten jedoch kaum noch eine Rolle spielt. Die Apache- und nginx-Server bilden die Marktführer bei den aktuellen Seiten.
+Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet wird, dicht gefolgt vom **NGINX**-Server. 
 
 ### Apache
 <p> <img align="right" src="https://www.apache.org/foundation/press/kit/asf_logo.svg" alt="Apache-Logo" width="190">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est. Sunt enim prima elementa naturae, quibus auctis vírtutis quasi germen efficitur. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; <i>Id enim natura desiderat.</i> Beatus autem esse in maximarum rerum timore nemo potest. 
 </p>
 
-### nginx
-<p> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="nginx-Logo" width="190">
+### NGINX
+<p> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="NGINX-Logo" width="190">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est. Sunt enim prima elementa naturae, quibus auctis vírtutis quasi germen efficitur. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; <i>Id enim natura desiderat.</i> Beatus autem esse in maximarum rerum timore nemo potest. 
 </p>
 
