@@ -1,3 +1,6 @@
+[&#8592; Zurück zur Übersicht](..)
+
+
 # Allgemeines
 
 Das Backend ist ein **Mix** bestehend aus **Server, Datenbank, API und operativen Systemen**. Es führt quasi die Befehle aus, die vom Frontend zu ihm durch gegeben werden. Hauptsächlich verantwortlich für die Steuerung der Datenspeicherung /-organisation und der Funktionalität des Programmes. Metaphorisch kann man also behaupten, es ist das "Gehirn" des Programm.
