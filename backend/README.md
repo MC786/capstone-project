@@ -13,6 +13,12 @@ Nachfolgend eine Liste über interessante Links:
 ### Links zu Allgemeines   
  - [Beginner Leitfaden](https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/)
  - [Aufgabenbeschreibung Backend](https://www.upwork.com/hiring/development/back-end-web-developer/)
+ 
+### Links für PHP
+- [Youtube Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7rZMP1lj32Qyp4bkarvzCGm)
+- [PHP Handbuch](http://php.net/manual/de/index.php)
+- [Datenbankerweiterungen](http://php.net/manual/de/refs.database.php)
+- [Funktionsreferenzen](http://php.net/manual/de/funcref.php)
 
 ## Autoren
 
