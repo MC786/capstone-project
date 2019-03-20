@@ -18,3 +18,9 @@ Für die Verbindung zwischen Front- und Backend bedarf es der sogenannten **Midd
 ## Quellen
 
 https://www.upwork.com/
+
+## Autoren
+
+| Name         | E-Mail                          | Änderungsdatum |
+|:-------------|:--------------------------------|:---------------|
+| Stefan Settertobulte | ssettert@smail.uni-koeln.de | 20.03.2019     |
