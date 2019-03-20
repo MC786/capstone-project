@@ -9,7 +9,7 @@
 
 ## Autoren
 
-| Name | E-Mail | Ã„nderungsdatum |
+| Name | E-Mail | Date of change |
 |:-----|:-------|:---------------|
 |Nina Erlacher|n.erlacher@web.de|20.03.2019|
 |Jan Reinhards|jan.reinhards@web.de|20.03.2019|
