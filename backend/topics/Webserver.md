@@ -16,24 +16,24 @@ Wenn es sich um eine **dynamische Seite** handelt (bsp. PHP-Dateien), wird ein z
 <p align="center">
 <img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="350">
 </p>
-Es gibt einige verschiedene Webserver-Software. Jedoch gibt es vier dominierende Server, die im Folgenden behandelt werden.<br>
+
+Es gibt einige verschiedene Webserver-Software. Jedoch werden im Folgenden nur die beiden dominierenden Server betrachtet.<br>
 Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet wird, dicht gefolgt vom **NGINX**-Server. Allerdings findet NGINX bei Websiten, die viel Traffic vorzuweisen haben, signifikant mehr Anwendung als alle anderen.
 
 ### Apache
-<p> <img align="right" src="https://www.apache.org/foundation/press/kit/asf_logo.svg" alt="Apache-Logo" width="190">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est. Sunt enim prima elementa naturae, quibus auctis vírtutis quasi germen efficitur. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; <i>Id enim natura desiderat.</i> Beatus autem esse in maximarum rerum timore nemo potest. 
-</p>
+<img align="right" src="https://www.apache.org/foundation/press/kit/asf_logo.svg" alt="Apache-Logo" width="190">
+
+- einer der ältesten und meistbenutzten Webserver
+- erste Version: 1995
+- Entwickler: [Apache Software Foundation](http://www.apache.org/)
+- Open-Source, kostenfrei
+- läuft auf allen gängigen Betriebssystemen
+- kann durch viele 
 
 ### NGINX
 <p> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="NGINX-Logo" width="190">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est. Sunt enim prima elementa naturae, quibus auctis vírtutis quasi germen efficitur. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; <i>Id enim natura desiderat.</i> Beatus autem esse in maximarum rerum timore nemo potest. 
 </p>
-
-### Microsoft
-
-
-https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg
-### 
 
 ## Quellen
 - [botfrei Blog: "Know-How: Was ist ein Webserver?"](https://blog.botfrei.de/2013/01/webserver-die-qual-der-wahl/) (abgerufen am 20.03.2019)
