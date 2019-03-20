@@ -1,5 +1,11 @@
 # Front-End Technologien
 
+
+
+
+## Helpful Videos or Tutorials
+[What you need to know as a Front End Developer (02.2018)](https://www.youtube.com/watch?v=Xd7huBu39qk)
+
 ## Autoren
 
 | Name | E-Mail | Änderungsdatum |
