@@ -122,3 +122,9 @@ Viele verschiedene [Bibliotheken](https://en.wikipedia.org/wiki/List_of_.NET_lib
 - https://www.it-treff.de
 - https://www.gulp.de
 - https://mva.microsoft.com
+
+## Autoren
+
+| Name         | E-Mail                          | Änderungsdatum |
+|:-------------|:--------------------------------|:---------------|
+| Stefan Settertobulte | ssettert@smail.uni-koeln.de | 20.03.2019     |
