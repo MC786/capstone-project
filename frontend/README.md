@@ -1,13 +1,12 @@
 # Front-End Technologies
 
 ## What is Front End?
-
 <h1 align="center">
   <p>
-    <img alt="FE vs BE" src="data/FE vs BE.jpeg" width="400" />
+    <img alt="FE vs BE" src="data/FE vs BE.jpeg" width="200" />
   </p>
-  Front End vs. Back End </br>
 </h1>
+//chris
 
 ## Languages used in Front End Programming
 //chris
