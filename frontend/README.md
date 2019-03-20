@@ -8,7 +8,7 @@
 
 ## Autoren
 
-| Name | E-Mail | Änderungsdatum |
+| Name | E-Mail | Ã„nderungsdatum |
 |:-----|:-------|:---------------|
 |Nina Erlacher|n.erlacher@web.de|20.03.2019|
 |Jan Reinhards|jan.reinhards@web.de|20.03.2019|
