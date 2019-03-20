@@ -1,30 +1,14 @@
 # Back-End Technologien
 
 ## Gliederung
-  - [Allgemeines](#allgemeines)
-  - [Anwendungsfelder](#anwendungsfelder)
-  - [Webserver](#webserver)
-  - [Programmiersprachen](#programmiersprachen)
-  - [Frameworks](#frameworks)
-  - [Besonderheiten](#besonderheiten)
+  - [Allgemeines](topics/Allgemeines.md)
+  - [Webserver](topics/Webserver.md)
+  - [Programmiersprachen](topics/Programmiersprachen.md)
+  - [Frameworks](topics/Frameworks.md)
   - [Linkliste](#linkliste)
-  - [Quellen](#quellen)
-
-## Allgemeines
-
-## Anwendungsfelder
-
-## Webserver
-
-## Programmiersprachen
-
-## Frameworks
-
-## Besonderheiten
 
 ## Linkliste
-
-## Quellen
+Nachfolgend eine Liste über interessante Links:
 
 ## Autoren
 
