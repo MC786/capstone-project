@@ -6,6 +6,7 @@
     <img alt="Front End vs Back End" src="data/FE vs BE.jpeg" width="300" />
   </p>
 </h2>
+<center>
 In the context of web development, Front End Programming describes the process of designing what the customer sees when interacting with the programmers product. This means websites, app interfaces or even the screens on an ATM.
 
 Front End Programming draws the connection between the actions happening in the background and the graphical user interface. The referenced "actions in the background" are mostly part of Back End Programming, namely the logical coding, databases, hosting software, etc.
@@ -14,7 +15,7 @@ In order to gather a general overview over needed skills for Front End Programmi
 It is important to understand the role of browsers in todays World Wide Web.
 
 Web pages are built with HTML coding. The browsers role is to read given code and visualise it for the client. However, different browsers interpret HTML differently, which leads to problems with webpages being displayed differently throughout different browsers and different devices such as mobile phones.
-
+</center>
 //chris
 
 ## Languages used in Front End Programming
