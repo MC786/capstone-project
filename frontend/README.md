@@ -38,8 +38,8 @@ Through the use of HTML, Front End programmers can structure text on their websi
 <html>
   <head>
     <title>Title of Website</title>
-    <!-- more Headinformation -->
-    <!-- Comments arent shown in Browsers. -->
+    <!-- more information on head -->
+    <!-- Comments arent shown in browsers. -->
   </head>
   <body>
     <p>Content of website</p>
