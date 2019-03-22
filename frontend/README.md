@@ -46,11 +46,11 @@ Through the use of HTML, Front End programmers can structure text on their websi
   </body>
 </html>
 ```
-1) Declaration of type of document  
+1) **Declaration of type of document**  
    States which definition of the type of document (DTD) is being used.  
-2) HTML-head  
+2) **HTML-head**  
    Contains technical or documentary Informations. Usually arent visivble in browser window.  
-3) HTML-body  
+3) **HTML-body**  
    Contains information which is interpreted and shown by the browser.
    
 #### HTML5
