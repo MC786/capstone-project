@@ -35,7 +35,7 @@ Through the use of HTML, Front End programmers can structure text on their websi
 
 <h2 align="center">
   <p>
-    <img alt="HTML structure" src="data/HTML Struktur.png" width="300" />
+    <img alt="HTML structure" src="data/HTML Struktur.png" width="800" />
   </p>
 </h2>
 
