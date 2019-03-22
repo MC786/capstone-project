@@ -25,7 +25,12 @@ Web pages are built with HTML coding. The browsers role is to read given code an
 //jan
 
 ### HTML
+<div align="justify">
+HTML (Hypertext Markup Language) is considered as the base of the World Wide Web. It was developed by Tim Berners-Lee in 1990 and has been further developed since by the World WIde Web Consortium and the Web Hypertext Application Technology Working Group.
 
+The purpose of a Markup Language is to structure text in documents so that it is syntactically differentiable.
+Through the use of HTML, Front End programmers can structure text on their websites, but cant format it. HTML delivers information for the browsers how to work with the text that they should display and how exactly to display it. However, since there are many different browsers, every browser interprets HTML differently, which leads to websites sometimes looking differently on different browsers.
+</div>
 #### HTML5
 
 ### CSS
