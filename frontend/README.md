@@ -37,12 +37,12 @@ Through the use of HTML, Front End programmers can structure text on their websi
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title of Website</title>
+    <title>title of website</title>
     <!-- more information on head -->
-    <!-- Comments arent shown in browsers. -->
+    <!-- comments arent shown in browsers. -->
   </head>
   <body>
-    <p>Content of website</p>
+    <p>content of website</p>
   </body>
 </html>
 ```
