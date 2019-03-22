@@ -26,7 +26,7 @@ In the context of web development, Front End Programming describes the process o
 
 ### HTML
 <div align="justify">
-HTML (Hypertext Markup Language) is considered as the base of the World Wide Web. It was developed by Tim Berners-Lee in 1990 and has been further developed since by the World WIde Web Consortium and the Web Hypertext Application Technology Working Group.
+HTML (Hypertext Markup Language) is considered as the base of the World Wide Web. It was developed by Tim Berners-Lee in 1990 and has been further developed since by the World Wide Web Consortium and the Web Hypertext Application Technology Working Group.
 
 
 The purpose of a Markup Language is to structure text in documents so that it is syntactically differentiable.
