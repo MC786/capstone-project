@@ -24,8 +24,9 @@ Web pages are built with HTML coding. The browsers role is to read given code an
 
 //jan
 
-### HTML5
-#### HTML
+### HTML
+
+#### HTML5
 
 ### CSS
 #### SASS
