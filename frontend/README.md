@@ -33,7 +33,7 @@ The purpose of a Markup Language is to structure text in documents so that it is
 Through the use of HTML, Front End programmers can structure text on their websites, but cant format it. HTML delivers information for the browsers how to work with the text that they should display and how exactly to display it. However, since there are many different browsers, every browser interprets HTML differently, which leads to websites sometimes looking differently on different browsers.
 </div>
 
-'''HTML
+```HTML
 <!DOCTYPE html>
 <html>
   <head>
@@ -45,7 +45,7 @@ Through the use of HTML, Front End programmers can structure text on their websi
     <p>Content of website</p>
   </body>
 </html>
-'''
+```
 
 #### HTML5
 
