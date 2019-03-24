@@ -36,7 +36,7 @@ Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet w
 
 - relativ neuer Webserver, der immer mehr an Bedeutung gewinnt
 - erste Version: 2004
-- läuft auf allen gängigen Betriebssstemen
+- läuft auf allen gängigen Betriebssystemen
 - modular aufgebaut, vielfältig erweiterbar
 - wird vor allem auf hochfrequentierten Websiten verwendet
   - beherrscht Lastenverteilung
@@ -47,6 +47,7 @@ Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet w
 
 - serverseitige Plattform zum Ausführen der eigentlich als Front-End-Sprache geltende Sprache JavaScript
 - erste Version: 2009
+- läuft auf allen gängigen Betriebssystemen
 - besonderer Fokus liegt auf Performance
   - ressourcensparende Architektur
   - ermöglicht besonders große Anzahl gleichzeitiger Verbindungen
@@ -55,6 +56,9 @@ Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet w
 ## Quellen
 - [botfrei Blog: "Know-How: Was ist ein Webserver?"](https://blog.botfrei.de/2013/01/webserver-die-qual-der-wahl/) (abgerufen am 20.03.2019)
 - [Netcraft: "February 2019 Web Server Survey"](https://news.netcraft.com/archives/2019/02/28/february-2019-web-server-survey.html) (abgerufen am 20.03.2019)
+- [NodeCode - Was ist Node.js?](http://nodecode.de/was-ist-nodejs) (abgerufen am 20.03.2019)
+- [Wikipedia: Apache HTTP Server](https://de.wikipedia.org/wiki/Apache_HTTP_Server) (abgerufen am 20.03.2019)
+- [NGINX Wiki](https://www.nginx.com/resources/wiki/) (abgerufen am 20.03.2019)
 
 ## Autoren
 | Name       | E-Mail                    | Änderungsdatum |
