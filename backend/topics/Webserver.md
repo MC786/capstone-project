@@ -17,7 +17,8 @@ Wenn es sich um eine **dynamische Seite** handelt (bsp. PHP-Dateien), wird ein z
 <img src="../images/Marktanteil_Webserver.png" alt="Marktanteil von Webservern" width="350">
 </p>
 
-Es gibt einige verschiedene Webserver-Software. Jedoch werden im Folgenden nur die beiden dominierenden Server betrachtet.<br>
+Es gibt einige verschiedene Webserver-Software. Jedoch werden im Folgenden nur drei Server behandelt.<br>
+Vorweg ist zu sagen, dass es auch möglich ist, mehrere **Server zu kombinieren**, um die verschiedenen Vorteile der jeweiligen Server optimal auszuschöpfen. <br>
 Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet wird, dicht gefolgt vom **NGINX**-Server. Allerdings findet NGINX bei Websiten, die viel Traffic vorzuweisen haben, signifikant mehr Anwendung als alle anderen.
 
 ### Apache
@@ -25,15 +26,31 @@ Es ist erkennbar, dass der **Apache**-Server weltweit am häufigsten verwendet w
 
 - einer der ältesten und meistbenutzten Webserver
 - erste Version: 1995
-- Entwickler: [Apache Software Foundation](http://www.apache.org/)
 - Open-Source, kostenfrei
 - läuft auf allen gängigen Betriebssystemen
-- kann durch viele 
+- kann durch viele Module erweitert werden
+- Bietet Unterstützung für Programmiersprachen wie PHP, Python, Ruby
 
-### NGINX
-<p> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="NGINX-Logo" width="190">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est. Sunt enim prima elementa naturae, quibus auctis vírtutis quasi germen efficitur. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; <i>Id enim natura desiderat.</i> Beatus autem esse in maximarum rerum timore nemo potest. 
-</p>
+### nginx
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="NGINX-Logo" width="190">
+
+- relativ neuer Webserver, der immer mehr an Bedeutung gewinnt
+- erste Version: 2004
+- läuft auf allen gängigen Betriebssstemen
+- modular aufgebaut, vielfältig erweiterbar
+- wird vor allem auf hochfrequentierten Websiten verwendet
+  - beherrscht Lastenverteilung
+  - hohe Leistung und gut konfigurierbar
+
+### Node.js
+<img align="right" src="../images/NodeJS_Logo.png" alt="Node.js-Logo" width="190">
+
+- serverseitige Plattform zum Ausführen der eigentlich als Front-End-Sprache geltende Sprache JavaScript
+- erste Version: 2009
+- besonderer Fokus liegt auf Performance
+  - ressourcensparende Architektur
+  - ermöglicht besonders große Anzahl gleichzeitiger Verbindungen
+- durch sehr viele Module/Pakete erweiterbar, werden durch Paketmanager [npm](https://www.npmjs.com/) verwaltet
 
 ## Quellen
 - [botfrei Blog: "Know-How: Was ist ein Webserver?"](https://blog.botfrei.de/2013/01/webserver-die-qual-der-wahl/) (abgerufen am 20.03.2019)
