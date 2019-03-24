@@ -25,6 +25,10 @@
 ### Laravel
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LaravelLogo.png/800px-LaravelLogo.png" alt="Laravel-Logo" width="190">
 
+### Symfony
+<img align="right" src="https://d1pwix07io15pr.cloudfront.net/v5a259d51b6/images/logos/header-logo.svg" alt="Symfony-Logo" width="190">
+
+
 ## Quellen
 - [MDN web docs: Server-side web frameworks](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks) (abgerufen am 22.03.2019)
 - [TecMint: 14 Best NodeJS Frameworks for Developers in 2019](https://www.tecmint.com/best-nodejs-frameworks-for-developers/) (abgerufen am 22.03.2019)
