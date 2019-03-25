@@ -154,6 +154,9 @@ Designing Front End takes a big part of Front End development, since it influenc
 A big part to work on is responsiveness, as today's websites and web-applications need to scale well on every device with their own resolution. "Responsive design" is a term by Ethan Marcotte (2010) which describes the ability to respond on the technical requirements. Basic principles are: fluid grids (the arrangement transforms based on screen width and length), media queries (which control when to switch arrangements) and flexibility (flexible images and media scale based on their container).
 </div>
 
+These are the main requirements to create the best possible User Experience:
+<img alt="User Experience Design" src="data/uxDesign.jpg" width="300" />
+
 
 There are best practices to meet the expections a user has:
 * user focused design research (what does our user want?)
