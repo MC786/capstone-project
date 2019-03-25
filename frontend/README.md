@@ -52,16 +52,25 @@ Through the use of HTML, Front End programmers can structure text on their websi
    Contains information which is interpreted and shown by the browser.
    
 #### HTML5
+<div align="justify">
+After HTML, the World Wide Web Consortium and the Web Hypertext Application Technology Working Group focused on developing XML and XHTML, to enable developers to further design their webpages and add colour etc. However, XML turned out to be too complicated for a standard developer and was strongly disliked by the majority.
 
+HTML5 was the first major update since 1999. It allowed developers to firstly implement and use video, images and audio files without the use of external plugins. If the user wanted to play videos or flash games from e.g. YouTube or Spielen.com, plugins like Java or Flash Player had to be installed.
+  
+HTML5 is also more tolerant concerning correct syntax. While still expecting correct syntax, it allows more syntactical errors than HTML did.
+</div>
 ### CSS
-#### Sass
+
+#### SASS
+<div align="justify">
 Sass is a preprocessor for CSS and simplyfies the work with CSS, especially related to big stylesheets. It was designed by Hampton Catlin and developed by Natalie Weizenbaum in 2007. With the use of Sass, it is possible to declare variables and to work with them. This is helpful in big stylesheets to keep those values consistent. Moreover Sass lets you use features that do not exist in CSS yet like nesting, mixins, inheritance and other. A mixin lets you make groups of CSS declarations that you want to reuse throughout your site. You can even pass in values to make your mixin more flexible. 
-**//jan**
+</div>
 
 #### Stylus
+<div align="justify">
 Stylus is a preprocessor for CSS and its goal is to make the work with CSS more efficiently. A characteristic of Stylus is its simple syntax. You do not need curly brackets, colons or semicolons. 
 In Stylus it is possible to declare Variables and to use Nested Rules and Mixins like in Sass. Stylus convinces through its simple structur and the compability with JavaScript.
-**//jan**
+</div>
 
 ### Javascript
 
