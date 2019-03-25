@@ -59,6 +59,7 @@ HTML5 was the first major update since 1999. It allowed developers to firstly im
   
 HTML5 is also more tolerant concerning correct syntax. While still expecting correct syntax, it allows more syntactical errors than HTML did.
 </div>
+
 ### CSS
 <div align="justify">
 CSS (Cascading Style Sheets) was developed by Hakon Lee in 1994.
@@ -143,7 +144,6 @@ https://www.upwork.com/hiring/development/what-is-javascript/
 https://www.bigcommerce.com/ecommerce-answers/what-javascript-and-why-it-important/
 https://coffeescript.org/#introduction
 https://www.typescriptlang.org/
-**//jan**
 
 
 ## Front End Frameworks
