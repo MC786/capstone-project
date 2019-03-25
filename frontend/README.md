@@ -22,8 +22,6 @@ In the context of web development, Front End Programming describes the process o
 ## Languages used in Front End Programming
 **//chris**
 
-**//jan**
-
 ### HTML
 <div align="justify">
 HTML (Hypertext Markup Language) is considered as the base of the World Wide Web. It was developed by Tim Berners-Lee in 1990 and has been further developed since by the World Wide Web Consortium and the Web Hypertext Application Technology Working Group.
@@ -57,7 +55,9 @@ Through the use of HTML, Front End programmers can structure text on their websi
 
 ### CSS
 #### SASS
+**//jan**
 #### Stylus
+**//jan**
 
 ### Javascript
 
@@ -90,7 +90,7 @@ Moreover CoffeeScript provides a more clearly syntax and it is more understandab
 ##### TypeScript
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript and it is Open Source. TypeScript runs on every browser, in Node.js or in any JavaScript engine that supports ECMAScript 3 or newer. It offers classes, modules, and interfaces to help you build robust components. If the code is valid in JavaScript, it is valid in TypeScript.
 
-#### Quellen und Links
+#### Sources and Links
 https://de.wikibooks.org/wiki/Websiteentwicklung:_JavaScript:_Einleitung
 https://guide.freecodecamp.org/javascript/advantages-and-disadvantages-of-javascript/
 https://www.frontend-gmbh.de/frontend/javascript/
@@ -118,8 +118,6 @@ Vue is perfect for beginners, as besides JavaScript, HTML and CSS you do not hav
 Another Framework is Foundation. It offers you a lot of predefined elements. They have both complete HTML-Templates and single components. They are also specified on mobile-first- and responsive-design. Anyways, foundation does not give the programmer a lot of freedom. The company ZURB developed the framework with the help of years of experience in consulting others on how to build a good website. Since 2011 it was published as an Open-Source-Project. 
 
 
-**//nina**
-
 ## Designing in Front End
 Designing Front End takes a big part of Front End development, since it influences the user highly. Most of today's strategies are build around UCDs (user-centered designs) and user experience is one of the biggest challenges. If the user is satisfied, the economy around it the product functions.
 A big part to work on is responsiveness, as today's websites and web-applications need to scale well on every device with their own resolution. "Responsive design" is a term by Ethan Marcotte (2010) which describes the ability to respond on the technical requirements. Basic principles are: fluid grids (the arrangement transforms based on screen width and length), media queries (which control when to switch arrangements) and flexibility (flexible images and media scale based on their container).
@@ -132,8 +130,6 @@ There are best practices to meet the expections a user has:
 These are just the main examples, to get a full overview visit this [site](https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/).
 
 
-
-
 ## Helpful Videos or Tutorials
 - [What you need to know as a Front End Developer (02.2018)](https://www.youtube.com/watch?v=Xd7huBu39qk)
 - [A Beginner's Guide to Front-End Development](https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/)
@@ -143,7 +139,7 @@ These are just the main examples, to get a full overview visit this [site](https
 
 | Name | E-Mail | Date of change |
 |:-----|:-------|:---------------|
-|Nina Erlacher|n.erlacher@web.de|20.03.2019|
-|Jan Reinhards|jan.reinhards@web.de|20.03.2019|
+|Nina Erlacher|n.erlacher@web.de|23.03.2019|
+|Jan Reinhards|jan.reinhards@web.de|23.03.2019|
 |Nicolas Schlicht|schlicht.nicolas@gmail.com|25.03.2019|
-|Christoph Teichmeister|christoph.teichmeister@gmail.com|20.03.2019|
+|Christoph Teichmeister|christoph.teichmeister@gmail.com|25.03.2019|
