@@ -62,6 +62,7 @@ Through the use of HTML, Front End programmers can structure text on their websi
 ### Javascript
 
 #### Description
+<div align="justify">
 JavaScript, often abbreviated as JS, is a dynamic and high-level programming language. It was created by Brendan Eich in 1995 during his time at Netscape Communications. Prior to this Netscape Communications partnered with Sun Microsystems to include their static programming language Java, because Netscape decided that the scripting language they want to create would complement Java, and to break the Microsoft monopoly for user adoption of Web technologies and platforms. JavaScript was called LiveScript when it got first released in September 1995 but it was renamed JavaScript in December 1995.
 JavaScript was is the first client-side language and changed the world through the way to build the side of the site the user sees and interacts with. Before it, there were static HTML sites with no interactivity. 
 Beside HTML and CSS, JavaScript is the most ubiquitous client-side language. If HTML dictates the content of a page, and CSS dictates the look and feel, JavaScript dictates the behavior of a page. JavaScript complements HTML and CSS due to changing content on the page and the way things look when a user interacts with it.
@@ -70,25 +71,36 @@ Moreover JavaScript is a weakly-typed language, which means that JavaScript has 
 To standardize JavaScript to foster multiple independent implementations, ECMAScript was created in 1997. ECMAScript is a scripting-language specification, which is standardized by ECMA International.
 While JavaScript is a client-side language, some of its most powerful features involve asynchronous interaction with a remote server, which means that JavaScript is able to communicate with the server in the background without interrupting the user interaction taking place in the foreground.
 With the Use of JavaScript it is possible to build a dynamic website, which is characterized by rollover effects and dropdown menus. Moreover new content and data can be loaded without reloading the page and animating page elements such as fading, resizing and relocating can be integrated. Playing audio and video and validating input from Web forms are other enhancements due to the use of JavaScript. In addition, browser compatibility issues can be repaired. 
+</div>
 
 #### Advantages
+<div align="justify">
 JavaScript is client-side and due to this it is very fast because it can be run immediately within the client-side browser. Moreover being client-side reduces the demand on the website server. Some JavaScript applications can even run without connecting back to a web server, which means they will work in a browser with or without an internet connection. 
 Another Advantage of JavaScript is the simplicity. It is easy to learn and to implement compared to other languages. JavaScript enjoys a high popularity because it is used everywhere in the web. 
 Through JavaScript it is possible to create a rich interface to a website, for example with drag and drop components or a slider.
+</div>
 
 #### Disadvantages
+<div align="justify">
 The client-side Security is not completely guaranteed, because the code executes on the users computer and in some cases it can be exploited for malicious purposes. This is a reason why some people choose to disable JavaScript.
 Moreover JavaScript can be interpreted differently by different browsers, if no tool like JQuery, which handles all cross-browser inconsistencies and provides a consistent interface, is used.
+</div>
 
 #### Compilers
+<div align="justify">
 JavaScript can be compiled from code written in different languages through compilers like CoffeeScript and TypeScript.
+</div>
 
 ##### Coffeescript
+<div align="justify">
 CoffeeScript is a language that compiles into JavaScript. It enables to write the code easier and up to 30% less coding lines. The code compiles into the equivalent JavaScript without interpretation at runtime. If the code is valid in JavaScript, it is valid in CoffeeScript.
 Moreover CoffeeScript provides a more clearly syntax and it is more understandable than JavaScript. An Example of the difference is an automized declaration of the variables and optional brackets.
+</div>
 
 ##### TypeScript
+<div align="justify">
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript and it is Open Source. TypeScript runs on every browser, in Node.js or in any JavaScript engine that supports ECMAScript 3 or newer. It offers classes, modules, and interfaces to help you build robust components. If the code is valid in JavaScript, it is valid in TypeScript.
+</div>
 
 #### Sources and Links
 https://de.wikibooks.org/wiki/Websiteentwicklung:_JavaScript:_Einleitung
@@ -101,7 +113,7 @@ https://www.typescriptlang.org/
 
 
 ## Front End Frameworks
-
+<div align="justify">
 Frontend frameworks in general are files and folders which already contain samples of code. It depends on the framework, how much the template covers, how much you have to add by yourself and how much freddem is left for you own designs. As it is said in the beginning, nowadays there are a lot of different end-devices resulting in a matrix consisting out of lots of different operating systems, browsers and browser-version. Therefore coding websites gets very complex, as responsivensss is required.
 
 The most famous frontend frameworks are React and Angular. React was developed by Facebook, Angular by Google. This is why they have a huge community and are widely known. 
@@ -116,12 +128,13 @@ A kind of simplified mixture out of React and Angular is the JavaScript framewor
 Vue is perfect for beginners, as besides JavaScript, HTML and CSS you do not have to learn a further language. The API is intentionally easy hold. So the aim of this framework is reaching an amazing result minimum effort. 
 
 Another Framework is Foundation. It offers you a lot of predefined elements. They have both complete HTML-Templates and single components. They are also specified on mobile-first- and responsive-design. Anyways, foundation does not give the programmer a lot of freedom. The company ZURB developed the framework with the help of years of experience in consulting others on how to build a good website. Since 2011 it was published as an Open-Source-Project. 
-
+</div>
 
 ## Designing in Front End
+<div align="justify">
 Designing Front End takes a big part of Front End development, since it influences the user highly. Most of today's strategies are build around UCDs (user-centered designs) and user experience is one of the biggest challenges. If the user is satisfied, the economy around it the product functions.
 A big part to work on is responsiveness, as today's websites and web-applications need to scale well on every device with their own resolution. "Responsive design" is a term by Ethan Marcotte (2010) which describes the ability to respond on the technical requirements. Basic principles are: fluid grids (the arrangement transforms based on screen width and length), media queries (which control when to switch arrangements) and flexibility (flexible images and media scale based on their container).
-
+</div>
 There are best practices to meet the expections a user has:
 - user focused design research (what does our user want?)
 - reuse common design patterns (they work, don't reinvent the wheel!)
