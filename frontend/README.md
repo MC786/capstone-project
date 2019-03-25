@@ -52,8 +52,17 @@ Through the use of HTML, Front End programmers can structure text on their websi
    Contains information which is interpreted and shown by the browser.
    
 #### HTML5
+<div align="justify">
+After HTML, the World Wide Web Consortium and the Web Hypertext Application Technology Working Group focused on developing XML and XHTML, to enable developers to further design their webpages and add colour etc. However, XML turned out to be too complicated for a standard developer and was strongly disliked by the majority.
 
+HTML5 was the first major update since 1999. It allowed developers to firstly implement and use video, images and audio files without the use of external plugins. If the user wanted to play videos or flash games from e.g. YouTube or Spielen.com, plugins like Java or Flash Player had to be installed.
+  
+HTML5 is also more tolerant concerning correct syntax. While still expecting correct syntax, it allows more syntactical errors than HTML did.
+</div>
 ### CSS
+<div align="justify">
+  
+</div>
 #### SASS
 **//jan**
 #### Stylus
