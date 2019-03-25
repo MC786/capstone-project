@@ -72,7 +72,12 @@ HTML structures the text and CSS "stylises" the text. Code written in a .css fil
  </style>
 ```
 <div align="justify">
+This exerpt from a .css style data leads to every text written as a h1 object in the .html file will be displayed in red color.
+The style of the .html page is mostly saved in a seperate .css file, but css can also be programmed in the .html file itself.
+  
+Contrary to HTML, CSS now allows the developer to assign different designs of a webpage to different screen sizes that it will be displayed on. Should a client display the webpage via monitor, the webpage needs to be displayed in a different resolution / design than when it is accessed on a mobile device, as the mobile devices screen will be much smaller.
 
+However, it can get very difficult to remember every specific CSS command. This is why preprocessors such as SASS or Stylus exist.
 </div>
 
 #### SASS
