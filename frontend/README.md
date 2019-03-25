@@ -60,6 +60,22 @@ HTML5 was the first major update since 1999. It allowed developers to firstly im
 HTML5 is also more tolerant concerning correct syntax. While still expecting correct syntax, it allows more syntactical errors than HTML did.
 </div>
 ### CSS
+<div align="justify">
+CSS (Cascading Style Sheets) was developed by Hakon Lee in 1994.
+  
+HTML structures the text and CSS "stylises" the text. Code written in a .css file selects identifiers from HTML and assigns them specific attributes such as colour, background or font.
+</div>
+
+```CSS
+<style>
+  h1{
+      color: red;
+     }
+ </style>
+```
+<div align="justify">
+
+</div>
 
 #### SASS
 <div align="justify">
@@ -153,9 +169,6 @@ Another Framework is Foundation. It offers you a lot of predefined elements. The
 Designing Front End takes a big part of Front End development, since it influences the user highly. Most of today's strategies are build around UCDs (user-centered designs) and user experience is one of the biggest challenges. If the user is satisfied, the economy around it the product functions.
 A big part to work on is responsiveness, as today's websites and web-applications need to scale well on every device with their own resolution. "Responsive design" is a term by Ethan Marcotte (2010) which describes the ability to respond on the technical requirements. Basic principles are: fluid grids (the arrangement transforms based on screen width and length), media queries (which control when to switch arrangements) and flexibility (flexible images and media scale based on their container).
 </div>
-
-These are the main requirements to create the best possible User Experience:
-<img alt="User Experience Design" src="data/uxDesign.jpg" width="300" />
 
 
 There are best practices to meet the expections a user has:
