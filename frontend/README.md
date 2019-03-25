@@ -17,10 +17,7 @@ In the context of web development, Front End Programming describes the process o
   Web pages are built with HTML coding. The browsers role is to read given code and visualise it for the client. However, different browsers interpret HTML differently, which leads to problems with webpages being displayed differently throughout different browsers and different devices such as mobile phones.
 </div>
 
-**//chris**
-
 ## Languages used in Front End Programming
-**//chris**
 
 ### HTML
 <div align="justify">
