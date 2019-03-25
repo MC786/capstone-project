@@ -54,9 +54,13 @@ Through the use of HTML, Front End programmers can structure text on their websi
 #### HTML5
 
 ### CSS
-#### SASS
+#### Sass
+Sass is a preprocessor for CSS and simplyfies the work with CSS, especially related to big stylesheets. It was designed by Hampton Catlin and developed by Natalie Weizenbaum in 2007. With the use of Sass, it is possible to declare variables and to work with them. This is helpful in big stylesheets to keep those values consistent. Moreover Sass lets you use features that do not exist in CSS yet like nesting, mixins, inheritance and other. A mixin lets you make groups of CSS declarations that you want to reuse throughout your site. You can even pass in values to make your mixin more flexible. 
 **//jan**
+
 #### Stylus
+Stylus is a preprocessor for CSS and its goal is to make the work with CSS more efficiently. A characteristic of Stylus is its simple syntax. You do not need curly brackets, colons or semicolons. 
+In Stylus it is possible to declare Variables and to use Nested Rules and Mixins like in Sass. Stylus convinces through its simple structur and the compability with JavaScript.
 **//jan**
 
 ### Javascript
@@ -103,6 +107,10 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript a
 </div>
 
 #### Sources and Links
+https://sass-lang.com/guide
+https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache)
+https://we-code-it.de/2017/09/07/sass-less-less-sass-oder-doch-stylus/
+https://en.wikipedia.org/wiki/Stylus_(stylesheet_language)
 https://de.wikibooks.org/wiki/Websiteentwicklung:_JavaScript:_Einleitung
 https://guide.freecodecamp.org/javascript/advantages-and-disadvantages-of-javascript/
 https://www.frontend-gmbh.de/frontend/javascript/
@@ -110,6 +118,7 @@ https://www.upwork.com/hiring/development/what-is-javascript/
 https://www.bigcommerce.com/ecommerce-answers/what-javascript-and-why-it-important/
 https://coffeescript.org/#introduction
 https://www.typescriptlang.org/
+**//jan**
 
 
 ## Front End Frameworks
